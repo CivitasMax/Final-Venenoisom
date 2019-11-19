@@ -2,7 +2,7 @@
 Analyze the possible threat of Poisonous animals or plants and find out about  treatment
 flaskSaas
 License
-
+Original project https://github.com/CivitasMax/MachineLearning/tree/master/Week5/flaskSaaS-master
 A fork of Max Halford's flask-boilerplate. I've noticed SaaS bootstraps/boilerplates being sold upwards of $1,000 per year and I think that's fucking ridiculous. This project will be my attempt to make a great starting point for your next big business as easy and efficent as possible.
 
 Features
